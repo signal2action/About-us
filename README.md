@@ -4,7 +4,7 @@ Welcome to **Signal2Action** — dedicated to exploring the intersection of **De
 
 ## 🔍 What We Cover:
 - Practical detection engineering with SIEMs and EDRs
-- Building automation workflows using SOAR tools (like Sentinel, Logic Apps)
+- Building automation workflows using SOAR tools
 - Using AI agents to automate lab creation, rule building, and attack simulation
 - Breaking down complex concepts into real-world use cases and visual demos
 
